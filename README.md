@@ -187,7 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and inquiries:
-- **Email**: support@remote-medicine-platform.com
+- **Email**: contact@cellihub.com
 - **Documentation**: https://docs.remote-medicine-platform.com
 - **Issues**: https://github.com/tonnytg/remote-medicine-platform/issues
 
